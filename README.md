@@ -7,19 +7,19 @@ After the candidate results were provided, the election commission requested vot
 
 # Election Audit Results
 * Total number of votes cast in this congressional election?
-There was a total of 369,711 votes cast in this congressional election.
+ - There was a total of 369,711 votes cast in this congressional election.
 * Breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Jefferson county casted a total of 38,855 votes which made up 10.5% of the total votes cast in this congressional election.
-- Denver county casted a total of 306,055 votes which made up 82.8% of the total votes cast in this congressional election.
-- Arapahoe county casted a total of 24,801 votes which made up 6.7% of the total votes cast in this congressional election.
+ - Jefferson county casted a total of 38,855 votes which made up 10.5% of the total votes cast in this congressional election.
+ - Denver county casted a total of 306,055 votes which made up 82.8% of the total votes cast in this congressional election.
+ - Arapahoe county casted a total of 24,801 votes which made up 6.7% of the total votes cast in this congressional election.
 * County with the largest number of votes?
-The county of Denver had the largest number of votes cast (306,055) in this congressional election.
+ - The county of Denver had the largest number of votes cast (306,055) in this congressional election.
 * Breakdown of the number of votes and the percentage of the total votes each candidate received.
-- Candidate Charles Casper DeGette received 85,213 votes which made up 23.0% of total votes cast in this congressional election.
-- Candidate Diana DeGette received 272,892 votes which made up 73.8% of total votes cast in this congressional election.
-- Candidate Raymon Anthony Doane received 11,606 votes which made up 3.1% of total votes cast in this congressional election.
+ - Candidate Charles Casper DeGette received 85,213 votes which made up 23.0% of total votes cast in this congressional election.
+ - Candidate Diana DeGette received 272,892 votes which made up 73.8% of total votes cast in this congressional election.
+ - Candidate Raymon Anthony Doane received 11,606 votes which made up 3.1% of total votes cast in this congressional election.
 * Winning candidate of the election, with their vote count, and their percentage of the total votes?
-Candidate Diana DeGette won the election with a total of 272,892 votes which made up 73.8% of total votes cast in this congressional election.
+ - Candidate Diana DeGette won the election with a total of 272,892 votes which made up 73.8% of total votes cast in this congressional election.
 
 # Election Audit Summary
 The election commission can use this Python script for any future elections with minor modifications to the script.  This would allow the election commission to receive future election results in a more efficient and accurate manor. 
