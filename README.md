@@ -1,8 +1,9 @@
 # election-analysis
 
 # Overview of the Election Audit
-  Tom and Seth, Colorado board of elections employees, asked for assistance in an election audit of a US congressional precinct in Colorado.  The goal was to utilize the programming language Python to return the total number of votes for each candidate, the percentage of votes for each candidate and the winner of the election based on the popular vote.  The election results data was provided in a csv file, which is what we used for the analysis. 
-  After the candidate results were provided, the election commission requested voter turnout for each county, the percentage of votes from each county of the total counts and the county that had the highest turnout.  This was achieved by adding new lines of code to our existing code that returned the candidate results.  I then had the candidate and county results saved to a text file for the election commission’s review.  
+Tom and Seth, Colorado board of elections employees, asked for assistance in an election audit of a US congressional precinct in Colorado.  The goal was to utilize the programming language Python to return the total number of votes for each candidate, the percentage of votes for each candidate and the winner of the election based on the popular vote.  The election results data was provided in a csv file, which is what we used for the analysis. 
+
+After the candidate results were provided, the election commission requested voter turnout for each county, the percentage of votes from each county of the total counts and the county that had the highest turnout.  This was achieved by adding new lines of code to our existing code that returned the candidate results.  I then had the candidate and county results saved to a text file for the election commission’s review.  
 
 # Election Audit Results
 ## Total number of votes cast in this congressional election?
