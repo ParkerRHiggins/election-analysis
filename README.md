@@ -20,16 +20,20 @@ After the candidate results were provided, the election commission requested vot
   - Candidate Raymon Anthony Doane received 11,606 votes which made up 3.1% of total votes cast in this congressional election.
 - Winning candidate of the election, with their vote count, and their percentage of the total votes?
   - Candidate Diana DeGette won the election with a total of 272,892 votes which made up 73.8% of total votes cast in this congressional election.
-![](Resources/election_results.csv)
+
+![](Resources/ElectionResults.png)
 
 # Election Audit Summary
 The election commission can use this Python script for any future elections with minor modifications to the script.  This would allow the election commission to receive future election results in a more efficient and accurate manor. 
 
 As long as future election data is provided the same way (Ballot ID, County, Candidate) we can modify the exciting script by changing the file_to_load path to a new csv file and execute the script to return results based on the new data file.  In this example file_to_load = os.path.join(“Resources”, “NEW_election_results.csv”)
+
 ![](Resources/UpdateToCode_FileToLoad1.png)
 
 If the future election data is provided but in a different order (Ballot ID, Candidate, County) we can simply modify lines of code that get the correct candidate and county name from each row.  In this example candidate_name = row[1] and county_name = row [2]. 
+
 ![](Resources/UpdateToCode_DataOrder.png)
 
 Lastly, we can always modify how the election results are printed to our results file.  We could modify the print to terminal sections to only see the winner’s results, only results from a specific county or to include a message by simply adding or removing sections of the print code.
+
 ![](Resources/UpdateToCode_PrintResults.png)
